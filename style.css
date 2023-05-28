@@ -30,7 +30,7 @@
 
 @keyframes ninjaRun {
     0% {
-        background-position: opx;
+        background-position: 0px;
     }
 
     100% {
